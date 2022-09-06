@@ -32,5 +32,5 @@ fetchData();
   
   #### How to add this extention to chrome browser?
   Select More Tools -> Extensions. Then do the followings,
-    *. enable the Developer mode 
-    *. Click Load unpacked and then load the project in the Chrome extension store. 
+  * enable the Developer mode 
+  * Click Load unpacked and then load the project in the Chrome extension store. 
