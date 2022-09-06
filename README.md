@@ -1,8 +1,7 @@
 # covid19stats-extention
 Building Aan extention is alomost identical to building a web application. A web app is made of HTML, CSS, Javascript files, and some JSON files. The only difference is that the Chrome extension requires a special file named manifest.json, which contains all the configurations.
 
-In this project there are three files.
-3 Files, first 2 are 
+In this project there are 3 files.
 1. index.html: main file that contains all the html scipts including a bootstrap cdn for styling.
 2. script.js: this is the only javascript file that will fetch the data from uk covid api (https://api.coronavirus.data.gov.uk/v1/data) and then show them accordingly.
   ```
