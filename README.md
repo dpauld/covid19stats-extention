@@ -1,5 +1,8 @@
 # covid19stats-extention
-Building Aan extention is alomost identical to building a web application. A web app is made of HTML, CSS, Javascript files, and some JSON files. The only difference is that the Chrome extension requires a special file named manifest.json, which contains all the configurations.
+
+![image](https://user-images.githubusercontent.com/24862973/236843693-5bd79dd6-c849-469a-af50-a13424f9cd2a.png)
+
+Building an extention is alomost identical to building a web application. A web app is made of HTML, CSS, Javascript files, and some JSON files. The only difference is that the Chrome extension requires a special file named manifest.json, which contains all the configurations.
 
 In this project there are 3 files.
 1. index.html: main file that contains all the html scipts including a bootstrap cdn for styling.
